@@ -1,0 +1,625 @@
+nohup: ignoring input
+Starting iteration 1...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 17:23:47.805064
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 17:53:00.507838
+[spectrev2 8508051] Run 1 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   ae130c3..8508051  spectrev2 -> spectrev2
+[spectrev2 3de92e7] Run 1 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 80 insertions(+), 80 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   b420384..3de92e7  spectrev2 -> spectrev2
+Completed iteration 1.
+Waiting for 1 minute before the next iteration...
+Starting iteration 2...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 17:54:02.789947
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 18:23:10.289410
+[spectrev2 29b4bda] Run 2 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   8508051..29b4bda  spectrev2 -> spectrev2
+[spectrev2 e985715] Run 2 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 79 insertions(+), 79 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   3de92e7..e985715  spectrev2 -> spectrev2
+Completed iteration 2.
+Waiting for 1 minute before the next iteration...
+Starting iteration 3...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 18:24:12.383967
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 18:53:43.364572
+[spectrev2 96b8482] Run 3 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   29b4bda..96b8482  spectrev2 -> spectrev2
+[spectrev2 278b613] Run 3 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 80 insertions(+), 80 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   e985715..278b613  spectrev2 -> spectrev2
+Completed iteration 3.
+Waiting for 1 minute before the next iteration...
+Starting iteration 4...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 18:54:45.346147
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 19:24:13.849401
+[spectrev2 8bb9bb2] Run 4 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   96b8482..8bb9bb2  spectrev2 -> spectrev2
+[spectrev2 2abd6a2] Run 4 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 79 insertions(+), 79 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   278b613..2abd6a2  spectrev2 -> spectrev2
+Completed iteration 4.
+Waiting for 1 minute before the next iteration...
+Starting iteration 5...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 19:25:15.828679
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 19:54:33.574647
+[spectrev2 bb15d95] Run 5 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   8bb9bb2..bb15d95  spectrev2 -> spectrev2
+[spectrev2 ea426a4] Run 5 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 79 insertions(+), 79 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   2abd6a2..ea426a4  spectrev2 -> spectrev2
+Completed iteration 5.
+Waiting for 1 minute before the next iteration...
+Starting iteration 6...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 19:55:35.730957
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 20:25:00.147196
+[spectrev2 162da34] Run 6 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   bb15d95..162da34  spectrev2 -> spectrev2
+[spectrev2 fb587fc] Run 6 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 77 insertions(+), 77 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   ea426a4..fb587fc  spectrev2 -> spectrev2
+Completed iteration 6.
+Waiting for 1 minute before the next iteration...
+Starting iteration 7...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 20:26:03.251902
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 20:55:26.638329
+[spectrev2 f809c76] Run 7 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   162da34..f809c76  spectrev2 -> spectrev2
+[spectrev2 4408a3a] Run 7 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 80 insertions(+), 80 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   fb587fc..4408a3a  spectrev2 -> spectrev2
+Completed iteration 7.
+Waiting for 1 minute before the next iteration...
+Starting iteration 8...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 20:56:28.713860
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 21:25:33.662729
+[spectrev2 2800e84] Run 8 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   f809c76..2800e84  spectrev2 -> spectrev2
+[spectrev2 fab591d] Run 8 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 78 insertions(+), 78 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   4408a3a..fab591d  spectrev2 -> spectrev2
+Completed iteration 8.
+Waiting for 1 minute before the next iteration...
+Starting iteration 9...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 21:26:35.630955
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 21:55:52.356453
+[spectrev2 fd9daf4] Run 9 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   2800e84..fd9daf4  spectrev2 -> spectrev2
+[spectrev2 825c1ba] Run 9 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 81 insertions(+), 81 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   fab591d..825c1ba  spectrev2 -> spectrev2
+Completed iteration 9.
+Waiting for 1 minute before the next iteration...
+Starting iteration 10...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 21:56:54.416448
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 22:26:24.003529
+[spectrev2 aa1bde2] Run 10 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   fd9daf4..aa1bde2  spectrev2 -> spectrev2
+[spectrev2 d2ac962] Run 10 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 78 insertions(+), 78 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   825c1ba..d2ac962  spectrev2 -> spectrev2
+Completed iteration 10.
+Waiting for 1 minute before the next iteration...
+Starting iteration 11...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 22:27:25.951236
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 22:57:02.552276
+[spectrev2 02a8a5a] Run 11 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   aa1bde2..02a8a5a  spectrev2 -> spectrev2
+[spectrev2 f4960bf] Run 11 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 81 insertions(+), 81 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   d2ac962..f4960bf  spectrev2 -> spectrev2
+Completed iteration 11.
+Waiting for 1 minute before the next iteration...
+Starting iteration 12...
+['6.1.0', '26', 'amd64']
+['6.1.0', '27', 'amd64']
+[6, 1, 0, '6.1.0-26-amd64']
+[6, 1, 0, '6.1.0-27-amd64']
+make: Entering directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+gcc -o OS_Eval -pthread -O0 OS_Eval.c 
+make: Leaving directory '/mnt/purnya/benchmark/LEBench/TEST_DIR'
+[INFO] Running benchmark on the current kernel version.
+[INFO] --------------------------------------------------
+[INFO]              Starting LEBench tests
+[INFO]              Current time: 22:58:04.559702
+[INFO] current kernel version: 6.1.0-26-amd64.
+[INFO] Preparing to run test OS_Eval.
+[INFO] Compiling test OS_Eval.c.
+[INFO] Running test with command: /mnt/purnya/benchmark/LEBench/TEST_DIR/OS_Eval 0 6.1.0-26-amd64
+[INFO]              Finished running test OS_Eval, test returned 0, log written to: /mnt/purnya/benchmark/LEBench/RESULT_DIR/6.1.0-26-amd64.
+[INFO]              Current time: 23:27:32.535919
+[spectrev2 8f8ee7c] Run 12 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 39 deletions(-)
+To https://github.com/Psml03/LEBench.git
+   02a8a5a..8f8ee7c  spectrev2 -> spectrev2
+[spectrev2 c4a85d1] Run 12 Spectre V2 Kernel
+ Committer: root <root@tlaloc.os.rwth-aachen.de>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 78 insertions(+), 78 deletions(-)
+To https://github.com/Psml03/LEBenchmark.git
+   f4960bf..c4a85d1  spectrev2 -> spectrev2
+Completed iteration 12.
+All iterations completed.
