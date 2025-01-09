@@ -1,0 +1,12 @@
+
+ Performance counter stats for process id '210762':
+
+ 3,812,012,511,692      cpu-cycles                                                         
+ 5,472,086,769,753      instructions                     #    1.44  insn per cycle         
+   935,830,880,402      branch-instructions                                                
+     2,420,790,442      branch-misses                    #    0.26% of all branches        
+ 1,420,217,057,373      cycle_activity.stalls_total                                        
+       280,341,962      misc2_retired.lfence                                               
+
+    1996.540237259 seconds time elapsed
+
