@@ -1,0 +1,12 @@
+
+ Performance counter stats for process id '217207':
+
+ 3,805,027,075,880      cpu-cycles                                                         
+ 5,472,607,048,653      instructions                     #    1.44  insn per cycle         
+   935,949,822,617      branch-instructions                                                
+     2,121,994,683      branch-misses                    #    0.23% of all branches        
+ 1,418,036,462,140      cycle_activity.stalls_total                                        
+       318,218,629      misc2_retired.lfence                                               
+
+    1993.281963064 seconds time elapsed
+
