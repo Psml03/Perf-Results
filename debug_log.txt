@@ -1,5 +1,5 @@
-Debug: Found PID 1033851
-Debug: Executing command: sudo perf stat -p 1033851 -e cpu-cycles,instructions,branch-instructions,branch-misses,cycle_activity.stalls_total,misc2_retired.lfence > /mnt/purnya/benchmark/Perf/benchmark.txt 2>&1 &
-Debug: Launched perf stat for PID 1033851.
-Debug: Found perf PID 1033857. Attempting to stop.
-Success: Stopped perf stat with PID 1033857.
+Debug: Found PID 1238027
+Debug: Executing command: sudo perf stat -p 1238027 -e cpu-cycles,instructions,branch-instructions,branch-misses,cycle_activity.stalls_total,misc2_retired.lfence > /mnt/purnya/benchmark/Perf/benchmark.txt 2>&1 &
+Debug: Launched perf stat for PID 1238027.
+Debug: Found perf PID 1238033. Attempting to stop.
+Success: Stopped perf stat with PID 1238033.
