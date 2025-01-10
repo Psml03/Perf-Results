@@ -1,12 +1,12 @@
 
- Performance counter stats for process id '614599':
+ Performance counter stats for process id '818761':
 
- 3,890,796,993,896      cpu-cycles                                                         
- 5,490,354,061,037      instructions                     #    1.41  insn per cycle         
-   945,627,645,961      branch-instructions                                                
-     4,077,030,134      branch-misses                    #    0.43% of all branches        
- 1,464,101,461,023      cycle_activity.stalls_total                                        
-       480,351,895      misc2_retired.lfence                                               
+ 3,888,042,978,996      cpu-cycles                                                         
+ 5,488,702,767,284      instructions                     #    1.41  insn per cycle         
+   945,259,913,664      branch-instructions                                                
+     4,096,597,034      branch-misses                    #    0.43% of all branches        
+ 1,464,522,033,427      cycle_activity.stalls_total                                        
+       480,352,378      misc2_retired.lfence                                               
 
-    2036.106719088 seconds time elapsed
+    2034.901431497 seconds time elapsed
 
