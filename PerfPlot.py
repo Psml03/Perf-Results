@@ -112,7 +112,7 @@ for index, (value, test_name) in enumerate(zip(df_melted["Value"], df_melted["Pe
     )
 
 # Customize
-plt.title("Performance Degradation Across Kernels", fontsize=16)
+plt.title("Impact of Security Mitigations on Perf Metrics", fontsize=16)
 plt.ylabel("Degradation (%)", fontsize=14)
 plt.xlabel("Perf Metric", fontsize=14)
 plt.xticks(fontsize=14)
